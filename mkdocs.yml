@@ -1,0 +1,108 @@
+site_name: Kākāriki Atoll Archive
+site_description: Recovered materials and ongoing survey notes from the Kākāriki Atoll complex.
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+
+  - Archive:
+      - Overview: archive/overview.md
+      - Confidence Scale: archive/confidence-scale.md
+      - Editorial Notes: archive/editorial-notes.md
+
+  - Site:
+      - Geography: site/geography.md
+      - Mount Ahi (Caldera): site/caldera-mount-ahi.md
+      - Lava Tubes: site/lava-tubes.md
+      - Tagoror Circles: site/tagoror-circles.md
+      - Ahu Fields: site/ahu-fields.md
+      - Overgrowth Phenomenon: site/overgrowth-phenomenon.md
+      - Copper Root Veins: site/copper-root-veins.md
+
+  - Material Culture:
+      - Index: material-culture/index.md
+      - Stone Watchers: material-culture/stone-watchers.md
+      - Moai-Kākāpō Forms: material-culture/moai-kakapo-forms.md
+      - Moss Shrines: material-culture/moss-shrines.md
+      - Obsidian Fragments: material-culture/obsidian-fragments.md
+      - Coral-Glass Remains: material-culture/coral-glass-remains.md
+      - Preserved Figures: material-culture/preserved-figures.md
+
+  - Texts:
+      - Index: texts/index.md
+      - Green Fragments: texts/green-fragments.md
+      - Three Fires Recitations: texts/three-fires-recitations.md
+      - Argument of Height: texts/argument-of-height.md
+      - Ash Mapping Text: texts/ash-mapping-text.md
+      - Late Circle Debates: texts/late-circle-debates.md
+      - Translation Notes:
+          - Translator A: texts/translation-notes/translator-a.md
+          - Translator B: texts/translation-notes/translator-b.md
+          - Translator C: texts/translation-notes/translator-c.md
+
+  - Cosmology:
+      - Index: cosmology/index.md
+      - Three Fires Model: cosmology/three-fires-model.md
+      - Balance & Failure: cosmology/balance-and-failure.md
+      - Silence Doctrine: cosmology/silence-doctrine.md
+      - Non-Ownership Philosophy: cosmology/non-ownership-philosophy.md
+      - Spirits & “First Examples”: cosmology/spirits-and-examples.md
+
+  - Collapse:
+      - Index: collapse/index.md
+      - Ash Layer: collapse/ash-layer.md
+      - Final Positions: collapse/final-positions.md
+      - Interrupted Mechanisms: collapse/interrupted-mechanisms.md
+      - Orientation Shift: collapse/orientation-shift.md
+      - Last Construction Phase: collapse/last-construction-phase.md
+
+  - Ecology:
+      - Index: ecology/index.md
+      - Kākāriki Bird: ecology/kakariki-bird.md
+      - Fern Dominance: ecology/fern-dominance.md
+      - Cave Fauna: ecology/cave-fauna.md
+      - Ritual Ecology: ecology/ritual-ecology.md
+
+  - Anomalies:
+      - Index: anomalies/index.md
+      - Recently Repaired Stonework: anomalies/recent-repairs.md
+      - Warm Conduits: anomalies/warm-conduits.md
+      - Fresh Offerings: anomalies/fresh-offerings.md
+      - Lights Beneath Canopy: anomalies/lights-beneath-canopy.md
+      - The Caretaker File: anomalies/the-caretaker-file.md
+
+  - Meta:
+      - Methodology: meta/methodology.md
+      - Glossary: meta/glossary.md
+      - Timeline: meta/timeline.md
+      - Citations: meta/citations.md
+
+  - Appendix:
+      - Naming Conventions: appendix/naming-conventions.md
+      - Phonology & Pronunciation: appendix/phonology-pronunciation.md
+      - Templates:
+          - Artifact Template: appendix/templates/artifact-template.md
+          - Site Template: appendix/templates/site-template.md
+          - Text Template: appendix/templates/text-template.md
