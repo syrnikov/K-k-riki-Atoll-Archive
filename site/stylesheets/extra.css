@@ -1,0 +1,12 @@
+/* Make the sidebar look like a Wikipedia Infobox */
+.admonition.inline {
+  width: 250px;
+  font-size: 0.8em;
+  background-color: #f8f9fa;
+  border: 1px solid #a2a9b1;
+}
+
+.admonition.inline img {
+  width: 100%;
+  height: auto;
+}
