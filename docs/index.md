@@ -1,4 +1,4 @@
-!!! note "≈11/45+ planned pages completed with text, images required."
+!!! note "≈23/45+ planned pages completed with text, images required."
 
 # Kākāriki Atoll Archive
 
