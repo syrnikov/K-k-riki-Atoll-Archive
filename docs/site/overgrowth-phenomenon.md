@@ -1,3 +1,8 @@
+!!! info inline end "The Overgrowth Phenomenon (KKA-SITE-004)"
+
+    ![Fern bed under a forest canopy](assets/ferns.png)
+    *Fern bed under a forest canopy*
+
 # The Overgrowth Phenomenon
 
 **Document type:** Environmental observation record  

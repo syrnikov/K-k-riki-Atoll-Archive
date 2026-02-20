@@ -1,3 +1,8 @@
+!!! info inline end "Copper Root Veins (KKA-SITE-005 )"
+
+    ![A copper root vein, prominent from the surrounding weathered rock at the north parts of the atoll](assets/copperrootvein.png)
+    *A copper root vein, prominent from the surrounding weathered rock at the north parts of the atoll*
+
 # Copper Root Veins
 
 **Document type:** Material and subsurface anomaly record  

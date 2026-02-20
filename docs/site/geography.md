@@ -1,3 +1,8 @@
+!!! info inline end "Geography of the Kākāriki Atoll (KKA-SITE-001)"
+
+    ![Kākāriki Atoll in the ocean](assets/atollaerial.png)
+    *Aerial view of the Kākāriki Atoll in the ocean*
+
 # Geography of the Kākāriki Atoll
 
 **Document type:** Survey synopsis (compiled)  

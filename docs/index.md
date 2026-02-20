@@ -1,3 +1,5 @@
+!!! note "≈11/45+ planned pages completed with text, images required."
+
 # Kākāriki Atoll Archive
 
 _A recovered-site dossier compiled from surveys, fragments, and later observations._

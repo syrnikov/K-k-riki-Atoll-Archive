@@ -1,3 +1,8 @@
+!!! info inline end "Mount Ahi (KKA-SITE-002)"
+
+    ![Aerial view of the Mount Ahi](assets/mountahi.png)
+    *Aerial view of the Mount Ahi*
+
 # Mount Ahi (Central Caldera)
 
 **Document type:** Geological and structural survey  

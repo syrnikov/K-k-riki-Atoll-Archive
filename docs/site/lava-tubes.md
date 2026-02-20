@@ -1,3 +1,8 @@
+!!! info inline end "Lava Tubes (KKA-SITE-003)"
+
+    ![Entrance of a lava tube](assets/lavatube.png)
+    *Entrance of a lava tube*
+
 # Lava Tubes
 
 **Document type:** Subsurface survey record  
