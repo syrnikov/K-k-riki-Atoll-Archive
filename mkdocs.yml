@@ -2,6 +2,8 @@ site_name: Kākāriki Atoll Archive
 site_description: Recovered materials and ongoing survey notes from the Kākāriki Atoll complex.
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   features:
     - navigation.instant
     - navigation.tabs
